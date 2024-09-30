@@ -1,4 +1,4 @@
-## convertTimeToWords Function Documentation
+## How I implemented the convertTimeToWords function
 
 ### Overview
 The `convertTimeToWords` function takes a string representing time in the `HH:MM` format and converts it into a human-readable format with words (e.g., `"2:30"` → `"half past two"`). It handles special cases like midnight and midday, as well as common phrases such as "quarter past," "half past," and "five to."
