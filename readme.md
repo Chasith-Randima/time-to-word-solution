@@ -47,7 +47,7 @@ The `convertTimeToWords` function takes a string representing time in the `HH:MM
   - Other hours are mapped to their English equivalents (e.g., `"2"` maps to `"two"`).
 - It supports both 12-hour (AM/PM) and 24-hour formats by wrapping around hours after `23`.
 
-### Example Test Cases
+### Console loggin for testing
 An array `times` is used for testing the `convertTimeToWords` function:
 
 ```javascript
